@@ -1,3 +1,2 @@
-# New Header
-## New Sub Header
-### New Sub-sub Header
+# Adding Image
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
